@@ -1,0 +1,11 @@
+! facebook_seen_and_type_block.txt
+! by arrivance (http://github.com/arrivance)
+
+! prevents messages from being marked as seen on messenger.com and facebook.com, and prevents the typing function
+
+*://*.facebook.com/*change_read_status*
+*://*.messenger.com/*change_read_status*
+*://*.facebook.com/*mark_seen.php*
+*://*.messenger.com/*mark_seen.php*
+*://*.facebook.com/*typ.php*
+*://*.messenger.com/*typ.php*

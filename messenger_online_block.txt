@@ -1,0 +1,13 @@
+! messenger_online_block.txt
+! by arrivance (http://github.com/arrivance)
+
+! blocks you from appearing online on http://messenger.com
+
+
+https://www.messenger.com/chat/user_info/
+https://*edge-chat.messenger.com/active_ping
+https://www.messenger.com/ajax/bz
+https://*edge-chat.messenger.com/pull
+https://*edge-chat.messenger.com/p?
+https://*edge-chat.messenger.com/ping
+https://www.messenger.com/*buddy_list.php
