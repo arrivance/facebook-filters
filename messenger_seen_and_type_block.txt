@@ -1,0 +1,8 @@
+! messenger_and_facebook_seen_and_type_block.txt
+! by arrivance (http://github.com/arrivance)
+
+! prevents messages from being marked as seen on messenger.com, and prevents people from knowing you're typing
+
+*://*.messenger.com/*change_read_status*
+*://*.messenger.com/*mark_seen.php*
+*://*.messenger.com/*typ.php*
