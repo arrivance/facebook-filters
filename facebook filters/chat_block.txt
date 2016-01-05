@@ -1,0 +1,14 @@
+! facebook_chat_block.txt
+! by arrivance (http://github.com/arrivance)
+
+! blocks chat on http://facebook.com
+! also prevents you from appearing online
+
+https://*edge-chat.facebook.com/*
+https://www.facebook.com/chat/*
+https://www.facebook.com/ajax/chat/
+https://www.facebook.com/mac_nerd_son/
+https://www.facebook.com/ajax/bz
+
+! blocks p2p connections
+https://www.facebook.com/p2p*

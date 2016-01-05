@@ -5,3 +5,4 @@
 
 https://*edge-chat.facebook.com/*
 https://*edge-chat.messenger.com/*
+https://www.facebook.com/ajax/presence*
