@@ -1,0 +1,6 @@
+! pubcontent_block.txt
+! by arrivance (http://github.com/arrivance)
+
+! blocks pubcontent (e.g trending, or suggested groups) from appearing in the sidebar
+
+https://www.facebook.com/pubcontent*
