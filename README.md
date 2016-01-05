@@ -3,17 +3,21 @@ various filters to block certain aspects of facebook and facebook messenger, usi
 
 ## instructions
 install these scripts using any adblock plus compatible blocker as it uses adblock plus syntax
-tested using ublock origin
+tested using uBlock origin on Chrome, Windows 10
 
-### facebook_online_block.txt and messenger_online_block.txt
-this blocks you from appearing online when using http://messenger.com or http://facebook.com
+### scripts in facebook filters/ are only for facebook.com
+### scripts in messenger filters/ are only for messenger.com
+### scripts in root are for both
 
-### facebook_seen_and_type_block.txt and messenger_seen_and_type_block.txt
-this prevents messages from being marked as read when you read them on http://facebook.com (facebook_seen), and http://messenger.com (messenger_seen). it also prevents the typing notification
+### block_online.txt
+this blocks you from appearing online when using http://messenger.com and http://facebook.com
+
+### block_seen_and_type.txt
+this prevents messages from being marked as read when you read them on http://facebook.com, and http://messenger.com. it also prevents the typing notification
 
 (essentially serves the exact same purpose as [unseen](https://chrome.google.com/webstore/detail/unseen/oclokcfejikeggpnhgakanfbdnlafaon?hl=en), but without any of the ad crap)
 
-### facebook_chat_block.txt
+### facebook filters/chat_block.txt
 blocks facebook chat on http://facebook.com. this also causes you to appear offline
 
 ### license

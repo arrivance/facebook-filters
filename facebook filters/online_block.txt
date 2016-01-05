@@ -3,6 +3,4 @@
 
 ! blocks you from appearing online on http://facebook.com
 
-https://*edge-chat.facebook.com/active_ping
-https://*edge-chat.facebook.com/sub
-https://*edge-chat.facebook.com/p
+https://*edge-chat.facebook.com/*

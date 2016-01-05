@@ -1,0 +1,7 @@
+! block_online.txt
+! by arrivance (http://github.com/arrivance)
+
+! blocks you from appearing online on http://facebook.com and http://messenger.com
+
+https://*edge-chat.facebook.com/*
+https://*edge-chat.messenger.com/*
