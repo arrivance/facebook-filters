@@ -9,18 +9,18 @@ tested using uBlock origin on Chrome, Windows 10
 #### scripts in messenger-filters/ are only for messenger.com
 #### scripts in root are for both
 
-### block_online.txt
-this blocks you from appearing online when using http://messenger.com and http://facebook.com
+### block_online.txt ([install](abp:subscribe?location=https://raw.githubusercontent.com/arrivance/facebook-filters/master/block_online.txt&title=Facebook Filter: Block Online))
+this prevents you from appearing online when using http://messenger.com and http://facebook.com
 
-### block_seen_and_type.txt
+### block_seen_and_type.txt ([install](abp:subscribe?location=https://raw.githubusercontent.com/arrivance/facebook-filters/master/block_seen_and_type.txt&title=Facebook Filter: Block Seen and Type))
 this prevents messages from being marked as read when you read them on http://facebook.com, and http://messenger.com. it also prevents the typing notification
 
 (essentially serves the exact same purpose as [unseen](https://chrome.google.com/webstore/detail/unseen/oclokcfejikeggpnhgakanfbdnlafaon?hl=en), but without any of the ad crap)
 
-### facebook-filters/chat_block.txt
+### facebook-filters/chat_block.txt ([install](abp:subscribe?location=https://raw.githubusercontent.com/arrivance/facebook-filters/master/facebook-filters/chat_block.txt&title=Facebook Filter: Facebook Block Chat))
 blocks facebook chat on http://facebook.com. this also causes you to appear offline
 
-### facebook-filters/pubcontent_block.txt
+### facebook-filters/pubcontent_block.txt ([install](abp:subscribe?location=https://raw.githubusercontent.com/arrivance/facebook-filters/master/facebook-filters/pubcontent_block.txt&title=Facebook Filter: Facebook Block Pubcontent))
 blocks pubcontent (e.g trending, or suggested groups) from appearing in the sidebar on http://facebook.com
 
 ### license
