@@ -15,7 +15,7 @@ this prevents you from appearing online when using http://messenger.com and http
 
 ### block_seen_and_type.txt
 [install](abp:subscribe?location=https://raw.githubusercontent.com/arrivance/facebook-filters/master/block_seen_and_type.txt&title=Facebook Filter: Block Seen and Type)
-this prevents messages from being marked as read when you read them on http://facebook.com, and http://messenger.com. it also prevents the typing notification
+this prevents messages and notifications from being marked as read when you read them on http://facebook.com, and http://messenger.com. it also prevents the typing notification
 
 (essentially serves the exact same purpose as [unseen](https://chrome.google.com/webstore/detail/unseen/oclokcfejikeggpnhgakanfbdnlafaon?hl=en), but without any of the ad crap)
 

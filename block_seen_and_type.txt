@@ -10,3 +10,5 @@
 *://*.messenger.com/*change_read_status*
 *://*.messenger.com/*mark_seen.php*
 *://*.messenger.com/*typ.php*
+
+https://*facebook.com/ajax/notifications/mark_read.php*
