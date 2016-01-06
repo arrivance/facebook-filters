@@ -5,7 +5,11 @@
 ! also prevents you from appearing online
 
 https://*edge-chat.facebook.com/*
-https://www.facebook.com/chat/*
-https://www.facebook.com/ajax/chat/
-https://www.facebook.com/mac_nerd_son/
-https://www.facebook.com/ajax/bz
+https://*facebook.com/chat/*
+https://*facebook.com/ajax/chat/
+https://*facebook.com/mac_nerd_son/
+https://*facebook.com/ajax/bz
+https://*facebook.com/ajax/presence*
+
+! blocks p2p connections
+https://*facebook.com/p2p*

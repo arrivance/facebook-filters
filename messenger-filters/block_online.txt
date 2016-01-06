@@ -3,6 +3,4 @@
 
 ! blocks you from appearing online on http://messenger.com
 
-https://*edge-chat.messenger.com/active_ping
-https://*edge-chat.messenger.com/p
-https://*edge-chat.messenger.com/sub
+https://*edge-chat.messenger.com/*

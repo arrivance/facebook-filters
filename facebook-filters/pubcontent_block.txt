@@ -3,4 +3,5 @@
 
 ! blocks pubcontent (e.g trending, or suggested groups) from appearing in the sidebar
 
-https://www.facebook.com/pubcontent*
+https://*facebook.com/pubcontent*
+facebook.com###u_0_0
